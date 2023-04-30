@@ -16,6 +16,8 @@ Additionally, lesson 7 uses Chainlink VRF v1 instead of v2, [you can find the do
 </p>
 <br/>
 
+<p>I am learning git over</p>
+
 Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition FreeCodeCamp course!
 
 # Table of Contents
